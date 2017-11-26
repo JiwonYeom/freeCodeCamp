@@ -637,7 +637,6 @@
             [
               "//i.imgur.com/6ibIavQ.jpg",
               "freeCodeCamp의 네가지 이점에 대한 그림: 인맥 형성, 자바스크립트 학습, 포트폴리오 제작, 비영리적 기여",
-              "Welcome to freeCodeCamp. We're an open source community that helps you learn to code, then practice by building projects for nonprofits.",
               "freeCodeCamp에 오신걸 환영합니다. 우리는 여러분의 코딩 학습과 비영리적 프로젝트 만들기를 돕는 오픈 소스 커뮤니티입니다",
               ""
             ],
@@ -674,38 +673,38 @@
             ],
             [
               "//i.imgur.com/pbW7K5S.jpg",
-              "An image of showing our front end, back end, and data visualization certifications (400 hours each), our nonprofit projects (800 hours), and interview prep (80 hours) for a total of 2,080 hours of coding experience.",
-              "Our curriculum is divided into 4 certifications. These certifications are standardized, and instantly verifiable by your freelance clients and future employers. Like everything else at freeCodeCamp, these certifications are free. We recommend doing them in order, but you are free to jump around. The first three certifications take 400 hours each, and the final certification takes 800 hours, and involves building real-life projects for nonprofits.",
+              "총 2,080 시간의 코딩 경험에서 얻을 수 있는 프론트엔드, 백엔드, 데이터 시각화 인증서(각 400시간), 비영리 프로젝트 인증서(800 시간), 그리고 인터뷰 준비(80 시간).",
+              "우리의 커리큘럼은 4개의 인증으로 나뉘어집니다. 이 인증들은 표준화되어 있으면, 여러분의 프리랜스 고객들이나 고용주들이 바로 확인 가능합니다. freeCodeCamp의 다른 것들이 그렇듯이, 이 인증들은 무료입니다. 순서대로 진행하는 것을 추천하기는 하지만, 자유롭게 정해서 진행할 수 있습니다. 처음 세개의 인증은 각각 400 시간이 걸리고, 마지막 인증은 800시간으로, 비영리적 목적을 위한 실제 프로젝트에 참여하게 됩니다.",
               ""
             ],
             [
               "//i.imgur.com/akGfLoa.jpg",
-              "A screenshot of our Front End Development Certificate",
-              "To earn our verified Front End Development Certification, you'll build 10 projects using HTML, CSS, jQuery, and JavaScript.",
+              "우리의 프론트엔드 개발 인증서의 스크린샷",
+              "프론트엔드 개발 인증서를 받기 위해서는 HTML, CSS, jQuery 그리고 자바스크립트를 이용해서 10개의 프로젝트를 완성해야 합니다.",
               ""
             ],
             [
               "//i.imgur.com/ocEL0D3.jpg",
-              "A screenshot of our Data Visualization Certificate",
-              "To earn our Data Visualization Certification, you'll build 10 projects using React, Sass and D3.js.",
+              "우리의 데이터 시각화 인증서의 스크린샷",
+              "데이터 시각화 인증서를 받기 위해서는 React, Sass, 그리고 D3.js 를 이용해서 10개의 프로젝트를 완성해야 합니다.",
               ""
             ],
             [
               "//i.imgur.com/8HCk1Od.jpg",
-              "A screenshot of our Back End Development Certificate",
-              "To earn our Back End Development Certification, you'll build 10 projects using Node.js, Express, and MongoDB. You'll use Git and Heroku to deploy them to the cloud.",
+              "우리의 백엔드 개발 인증서의 스크린샷",
+              "백엔드 개발 인증서를 받기 위해서는 Node.js, Express, 그리고 MongoDB를 이용해서 10개의 프로젝트를 완성해야 합니다. Git과 Heroku를 이용해서 클라우드에 배포하게 됩니다.",
               ""
             ],
             [
               "//i.imgur.com/yXyxbDd.jpg",
-              "A screen shot of our nonprofit project directory.",
-              "After you complete all three of these certificates, you'll team up with another camper and use agile software development methodologies to build two real-life projects for nonprofits. You'll also add functionality to two legacy code nonprofit projects. By the time you finish, you'll have a portfolio of real apps that people use every day.",
+              "비영리 프로젝트 디렉토리의 스크린샷.",
+              "세개의 인증을 마치고 나면, 다른 캠퍼들과 함께 애자일 개발 방법론을 이용해서 비영리 목적의 프로젝트 두개를 진행하게 됩니다. 또한, 기존에 존재하는 두개의 비영리 프로젝트에 기능을 추가해야 합니다. 이 모든게 끝날 때 쯤에는, 사람들이 실제 매일 사용하는 앱의 포트폴리오를 가지게 됩니다.",
               ""
             ],
             [
               "//i.imgur.com/PDGQ9ZM.jpg",
-              "An image of campers building projects together in a cafe in Seoul.",
-              "If you complete all 2,080 hours worth of challenges and projects, you'll earn our Full Stack Development Certification. We'll offer you free coding interview practice. We even offer a job board where employers specifically hire campers who've earned freeCodeCamp certifications.",
+              "서울의 한 카페에서 캠퍼들이 프로젝트를 진행중인 모습.",
+              "2080시간 가량의 챌린지와 프로젝트를 모두 마치면, 우리의 풀 스택 개발 인증을 받게 됩니다. 코딩 인터뷰 연습과 더불어 회사들이 freeCodeCamp 인증을 받은 캠퍼들을 고용하는 구직 게시판도 제공합니다.",
               ""
             ]
           ]
